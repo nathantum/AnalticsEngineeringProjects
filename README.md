@@ -5,7 +5,7 @@ I will be exploring the following topics.
 
 - [x] Create a Microsoft Fabric Lakehouse
 - [x] Analyze data with Apache Spark
-- [ ] Use delta tables in Apache Spark
+- [x] Use delta tables in Apache Spark
 - [ ] Create a medallion architecture in a Microsoft Fabric lakehouse
 - [ ] Ingest data with a pipeline in Microsoft Fabric
 - [ ] Create and use Dataflows (Gen2) in Microsoft Fabric
